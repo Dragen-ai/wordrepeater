@@ -1,0 +1,7 @@
+X = input("enter the word here what you want to print")
+j = int(input("Enter the number of copies"))
+
+For i in range(j):
+  Print(x)
+
+Print("thank you for using")
